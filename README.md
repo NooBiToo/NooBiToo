@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![Way IT Podcast](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wayit) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erlqq) 
-[![Website]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Erlan.me-brightgreen?logo=googlecolab&link=https%3A%2F%2Ferlan.me))](https://erlan.me) 
+[![Website](https://img.shields.io/badge/Erlan.me-brightgreen?logo=googlecolab)]([https://instagram.com/erlqq](https://erlan.me)) 
 
 
 # 💻 Tech Stack:
